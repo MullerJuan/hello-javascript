@@ -1,3 +1,5 @@
+// -- Tipos de Datos Primitivos --
+
 // String (cadena de texto)
 let name = "Juani Müller"
 let alias = 'Juani'
@@ -14,3 +16,8 @@ let isTeacher = false
 // Undefined (Indefinido)
 let undefinedValue
 console.log(undefinedValue)
+
+//Null (Nulo)
+let nullValue = null
+
+// Symbol (Simbolo)
